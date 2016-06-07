@@ -1,0 +1,2 @@
+# contactmgr-hibernate
+Learning Hibernate!
